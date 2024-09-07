@@ -1,0 +1,1 @@
+this is just a python script for [picthing-indie](https://github.com/Ebrahim-Ramadan/indie-picthing) to remove background from images, 
